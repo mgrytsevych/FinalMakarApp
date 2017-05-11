@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "241960031269",
+    "firebase_url": "https://makarfinal.firebaseio.com",
+    "project_id": "makarfinal",
+    "storage_bucket": "makarfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241960031269:android:c12f0a2172a094ef",
+        "android_client_info": {
+          "package_name": "makar.makarfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241960031269-95u0iuh3i5r84s5uhhc9j151ucnsrotk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "makar.makarfinal",
+            "certificate_hash": "ab306e1fbcddf172482351ea79cf6f8c80b69189"
+          }
+        },
+        {
+          "client_id": "241960031269-rsafrd9nebnu8vg4jl77lk917tnb75ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "makar.makarfinal",
+            "certificate_hash": "c6b9c7965600cdce04ece1fe56b0213b66b1b687"
+          }
+        },
+        {
+          "client_id": "241960031269-q5cedcj2sttged4paa152umc3ppmk2nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVcIt1FnzPrtrVEoewof6_Nt3JNaCwuws"
+        },
+        {
+          "current_key": "AIzaSyCrzT9dvdTLLMtV2whi-_131v5nMs4yvcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241960031269-q5cedcj2sttged4paa152umc3ppmk2nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
